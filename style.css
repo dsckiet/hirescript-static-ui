@@ -129,3 +129,8 @@ h1:hover .title-hire{
     box-shadow: 0 3px 6px rgba(0,0,0,0.2);
     font-family: GilroyBold;
 }
+
+.map {
+    border-radius: 8px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+}
